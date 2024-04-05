@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matching Game - Braedan Chappel", "Matching Game - Braedan Chappel\Matching Game - Braedan Chappel.csproj", "{DFFAE180-DCB9-4D84-8E71-E6EB8282E5E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4DC6FCEF-0A79-4F11-97E7-B33037AC3739}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFAE180-DCB9-4D84-8E71-E6EB8282E5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFAE180-DCB9-4D84-8E71-E6EB8282E5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFAE180-DCB9-4D84-8E71-E6EB8282E5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFAE180-DCB9-4D84-8E71-E6EB8282E5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC34A34-760D-48FD-8F14-61BE0CAA5BEB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Matching Game - Braedan Chappel/1.0.0": {
+        "runtime": {
+          "Matching Game - Braedan Chappel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matching Game - Braedan Chappel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
